@@ -123,6 +123,18 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 ## Helpful Commands
 
+### Start the app
+
+```yarn rw dev```
+
 ### View Prisma Studio
 
 ```yarn rw prisma studio```
+
+### Scaffold a Post
+
+```yarn rw g scaffold post```
+
+### Scaffold a Cell
+
+```yarn rw g cell Articles```
