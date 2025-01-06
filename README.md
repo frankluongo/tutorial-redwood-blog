@@ -127,6 +127,10 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 ```yarn rw dev```
 
+### Run a Migration
+
+```yarn rw prisma migrate dev```
+
 ### View Prisma Studio
 
 ```yarn rw prisma studio```
@@ -138,3 +142,7 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 ### Scaffold a Cell
 
 ```yarn rw g cell Articles```
+
+## Current Tutorial Location
+
+https://docs.redwoodjs.com/docs/tutorial/chapter2/side-quest

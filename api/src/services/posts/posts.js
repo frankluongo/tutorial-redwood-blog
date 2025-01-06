@@ -4,6 +4,12 @@ export const posts = () => {
   return db.post.findMany()
 }
 
+export const postBySlug = ({ slug }) => {
+  return db.post.findUnique({
+    where: { slug },
+  })
+}
+
 export const post = ({ id }) => {
   return db.post.findUnique({
     where: { id },

@@ -12,6 +12,6 @@ model Post {
   body      String
   createdAt DateTime @default(now())
   id        String   @id @default(cuid())
-  slug      String
+  slug      String   @unique
   title     String
 }
