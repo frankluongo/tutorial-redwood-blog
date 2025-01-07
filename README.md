@@ -145,4 +145,4 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 ## Current Tutorial Location
 
-https://docs.redwoodjs.com/docs/tutorial/chapter2/side-quest
+https://docs.redwoodjs.com/docs/tutorial/chapter3/saving-data#creating-a-contact
