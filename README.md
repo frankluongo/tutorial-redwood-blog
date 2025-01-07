@@ -143,6 +143,10 @@ The best way to learn Redwood is by going through the comprehensive [tutorial](h
 
 ```yarn rw g cell Articles```
 
+## Setup Authentication
+
+```yarn rw setup auth dbAuth```
+
 ## Current Tutorial Location
 
 https://docs.redwoodjs.com/docs/tutorial/chapter3/saving-data#creating-a-contact
